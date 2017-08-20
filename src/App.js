@@ -8,7 +8,7 @@ import LoginForm from './components/LoginForm';
 
 
 class App extends Component {
-    componentWillUnmount() {
+    componentWillMount() {
         var config = {
                 apiKey: 'AIzaSyAtv_zt0xPptP9uoqLsvjJuRlsC1K8YhVQ',
                 authDomain: 'manager-a2ae5.firebaseapp.com',
