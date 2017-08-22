@@ -26,6 +26,4 @@ const RouterComponent = () => {
     );
 };
 
-// const styles 
-
 export default RouterComponent;
